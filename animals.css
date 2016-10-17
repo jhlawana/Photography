@@ -1,20 +1,15 @@
 @font-face {
-  font-family: "Raleway"; 
-  src: url('Raleway-Light.ttf'); 
-} 
+  font-family: 'Raleway';
+  src: url('Raleway-Light.ttf');
+}
 
 @font-face {
-  font-family: "Panama"; 
-  src: url('Panama-Light.otf'); 
-} 
+  font-family: 'Bavro';
+  src: url('Bavro-Regular.ttf');
+}
 
-@font-face {
-  font-family: "Bavro"; 
-  src: url('Bavro-Regular.ttf'); 
-} 
-
-/*.page-header{
-	
+.page-header{
+	font-size: 100px;
 	padding-left: 300px;
 	margin-bottom: 2px;
 
@@ -27,7 +22,7 @@
 
 }
 
-
+/*menu
 
 .nav a{
 	display: inline-block;
@@ -52,6 +47,7 @@
 	border-left: 2px solid #000000;
 }
 
+/*menu*/
 
 
 
@@ -60,4 +56,3 @@
 	width: 1422px;
 	text-align: center;
 }
-*/
